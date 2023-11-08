@@ -1,5 +1,5 @@
-/*Practice solving alignment and white space issues.*/
-
+/* Practice solving the alignment and white space issue. */
+/* Previous */
 html, body {
     margin: 0;
     padding: 0;
@@ -26,15 +26,17 @@ span {
 
 p.date {
     text-align: center;
-    font-size: 0.7em;
+    font-size: .7em;
     text-transform: uppercase;
 }
 h3 {
     margin: 0;
 }
 p.desc {
-    font-size: 0.9em;
+    font-size: .9em;
 }
+
+/* Updated */
 
 body {
     padding: 2em;
