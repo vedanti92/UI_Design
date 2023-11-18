@@ -1,4 +1,6 @@
+/* Practice solving the colour and typography issue. */
 @import url('https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap');
+/* PREVIOUS */
 html, body {
     margin: 0;
     padding: 0;
@@ -90,16 +92,7 @@ input[type=submit] {
 }
 
 
-/*
-    Your fixes below!
-    
-    Use these colors codes: 
-    (1) #1C2022
-    (2) #9D9D9D
-    (3) #2B3337
-    (4) #FF01FF
-    (5) white
-*/
+/* UPDATED */
 
 body {
     background: white;
