@@ -1,3 +1,4 @@
+/* Practice solving the visual hierarchy issue. */
 @import url('https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap');
 /* PREVIOUS */
 html, body {
@@ -49,8 +50,6 @@ a {
 }
 
 /* UPDATED */
-
-
 
 body {
     padding: 1.5em;
