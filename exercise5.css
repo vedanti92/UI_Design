@@ -55,15 +55,15 @@ span {
 */
 
 body {
-    grid-gap: auto;    /* Improve the white space */
+    grid-gap: 3em;    /* Improve the white space */
 }
 
 .content {
-    background: auto;  /* Improve the color/contrast */
-    padding: auto;     /* Improve the white space */
+    background: #035afc;  /* Improve the color/contrast */
+    padding: 30px;     /* Improve the white space */
 }
 
 h1 {
-    margin-left: 1em;  /* Improve the alignment */
-    font-size: auto;   /* Improve the visual hierarchy */
+    margin-left: 0;  /* Improve the alignment */
+    font-size: 25px;   /* Improve the visual hierarchy */
 }
